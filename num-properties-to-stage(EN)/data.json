@@ -1,0 +1,32 @@
+{
+  "properties": [
+    {
+      "name": "Project Stage",
+      "range": {
+        "min": 0,
+        "max": 4
+      },
+      "messages": [
+        "Rough idea",
+        "Basic concept",
+        "Detailed plan",
+        "Self-reviewed project",
+        "Validated project"
+      ]
+    },
+    {
+      "name": "Reading Stage",
+      "range": {
+        "min": 0,
+        "max": 4
+      },
+      "messages": [
+        "Not read yet",
+        "Bookmarked",
+        "Bold highlighted",
+        "Highlighted",
+        "Summarized"
+      ]
+    }
+  ]
+}

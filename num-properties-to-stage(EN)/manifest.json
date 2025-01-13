@@ -1,0 +1,11 @@
+{
+	"id": "number-property-display",
+	"name": "Number Properties to Messages",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Use number type properties to demonstrate progress steps.",
+	"author": "22sh (used Claude AI)",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
